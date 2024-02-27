@@ -1,4 +1,4 @@
-# GeographicLib(.pri file in geographicLib folder)
+# GeographicLib qmake pro pri qt creator (.pri file in geographicLib folder)
 
 GeographicLib is a small C++ library for
 
